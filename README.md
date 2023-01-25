@@ -4,11 +4,11 @@
 # 我还会干啥？
   平时喜欢看番，无聊打音游.兴起也会玩玩Steam.虽说比较宅...
 # 如何联系我?
-  -Screen name：沄尘 YunChen
-  -E-mail✉️：393925220@QQ.com Or yeluoqwq@gmail.com
-  -QQ🐧:393925220
-  -My Website: yeluo0204qwq.cc 已经汐了 502
-
+  -Screen name：沄尘 YunChen<br>
+  -E-mail✉️：393925220@QQ.com Or yeluoqwq@gmail.com<br>
+  -QQ🐧:393925220<br>
+  -My Website: yeluo0204qwq.cc 已经汐了 502<br>
+   
 
   
   
