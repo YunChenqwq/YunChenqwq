@@ -10,7 +10,7 @@
   -QQ🐧:393925220<br>
   -My Website: www.yeluo0204qwq.cc 已经汐了 502<br>
 </a>
-   <img align="center" alt="Top Langs" src="https://github.com/YunChenqwq/YunChenqwq/blob/main/izumi.gif" />
+   <img align="center" alt="Top Langs" src="https://github.com/YunChenqwq/YunChenqwq/blob/main/izumi.gif" />IzumiSagiri Kawaii!!
 </a>
    
   
