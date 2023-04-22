@@ -1,7 +1,7 @@
 #<p align=left> <img src=https://github.com/YunChenqwq/YunChenqwq/blob/main/title.png /> </p><font size="3">我永远喜欢和泉纱雾💘</font>
 
 # 你好👉
-  Emm我是一个蒟蒻初中生，主要使用C&C++，学习过MFC，以及一些基础的算法😃另外的说，还会一点汇编和Python.都还处于学习阶段，喜欢面向search编程（手动狗头）。English:Hello, I am a middle school student from China. Mainly C/C++, but also a little ASM and Python. Now I'm learning Java.All in all,When I code, I always spend most of time to Google.（Just a fresh fish）（bushi）
+  Emm我是一个蒟蒻初中生，主要使用C&C++，学习过MFC，之前打过会oi😃另外的说，还会一点汇编和Python.都还处于学习阶段，目前在学习nodejs。喜欢面向search编程（手动狗头）。English:Hello, I am a middle school student from China. Mainly C/C++, but also a little ASM and Python. Now I'm learning Java.All in all,When I code, I always spend most of time to Google.（Just a fresh fish）（bushi）
 # 我还会干啥？
   看番打音游，自宅警备员（
 # 如何联系我?
