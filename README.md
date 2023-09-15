@@ -10,7 +10,7 @@
   -E-mail✉️：393925220@QQ.com Or yunchenqwq@gmail.com<br>
   -QQ🐧:393925220<br>
   -My Website: ~~www.yeluo0204qwq.cc~~ 已经汐了呜呜呜<br>
-
+  -Telegram: [@IzumiSagiriSuki](https://t.me/IzumiSagiriSuki)
 <br><br>
 
 ## IzumiSagiri Kawaii!!
