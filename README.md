@@ -2,8 +2,11 @@
 
 # 你好👉
   蒟蒻初中生，啥都学过一点，啥都不会
-# 我还会干啥？
- 我是fw
+# 我还会什么
+<a href="https://xzai.cloud">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunChenqwq&layout=compact&custom_title=我什么语言用的最多">
+</a>
+
 # 如何联系我?
   -Screen name：沄尘 YunChen<br>
   -E-mail✉️：393925220@QQ.com Or yeluoqwq@gmail.com<br>
