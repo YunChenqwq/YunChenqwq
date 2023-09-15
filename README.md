@@ -1,8 +1,6 @@
 ### Hi there 👋
 
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunChenqwq&layout=compact&custom_title=我主要会用什么语言"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunChenqwq&layout=donut-vertical"/>
 
 你好 我是 `沄澐qwq`，如你所见，是一个蒟蒻中学生~
 
@@ -15,7 +13,7 @@
 
 <br><br>
 
-### IzumiSagiri Kawaii!!
+## IzumiSagiri Kawaii!!
 </a>
    <img align="center" alt="Top Langs" src="https://github.com/YunChenqwq/YunChenqwq/blob/main/izumi.gif" />  
 </a>
