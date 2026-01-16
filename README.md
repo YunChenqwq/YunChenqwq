@@ -32,51 +32,61 @@
 - 🐧 QQ：`393925220`
 - 💬 Telegram：[@IzumiSagiriSuki](https://t.me/IzumiSagiriSuki)
 
-## 精选仓库（数据来自 GitHub）
-<p>
-  <a href="https://github.com/YunChenqwq/MBRVideo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunChenqwq&repo=MBRVideo&theme=transparent" alt="MBRVideo" />
-  </a>
-  <a href="https://github.com/YunChenqwq/EvilLock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunChenqwq&repo=EvilLock&theme=transparent" alt="EvilLock" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/YunChenqwq/QQClientKeyTrojan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunChenqwq&repo=QQClientKeyTrojan&theme=transparent" alt="QQClientKeyTrojan" />
-  </a>
-  <a href="https://github.com/YunChenqwq/WeChatKey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunChenqwq&repo=WeChatKey&theme=transparent" alt="WeChatKey" />
-  </a>
-</p>
+## 数据速览（更稳定）
+> 说明：之前用到的部分第三方统计卡片服务近期会出现 `500/503`，这里改成更稳定的 `shields.io` 徽章 + GitHub 链接。
 
-## 数据面板（实时/动态）
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YunChenqwq&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunChenqwq&layout=donut&custom_title=常用语言占比&theme=transparent" alt="Top Languages" />
-</p>
-
-<p>
-  <img height="180" src="https://streak-stats.demolab.com?user=YunChenqwq&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunChenqwq&theme=github-compact&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img alt="Profile Stars" src="https://img.shields.io/github/stars/YunChenqwq/YunChenqwq?style=flat-square&label=profile%20repo%20stars" />
+  <img alt="Total Issues" src="https://img.shields.io/github/issues/YunChenqwq/YunChenqwq?style=flat-square" />
+  <img alt="Total PRs" src="https://img.shields.io/github/issues-pr/YunChenqwq/YunChenqwq?style=flat-square" />
 </p>
 
 <details>
-  <summary>🏆 成就墙（点我展开）</summary>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=YunChenqwq&theme=flat&no-frame=true&row=1&column=7" alt="Trophies" />
-</details>
-
-<details>
-  <summary>📈 更多数据（点我展开）</summary>
+  <summary>📊 贡献热力图（点我展开）</summary>
   <br />
   <img src="https://ghchart.rshah.org/2196f3/YunChenqwq" alt="Contributions Chart" />
-  <br />
-  <img src="https://metrics.lecoq.io/YunChenqwq?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics" />
 </details>
+
+## 精选仓库（带具体数据）
+### MBRVideo
+<p>
+  <a href="https://github.com/YunChenqwq/MBRVideo"><img alt="Repo" src="https://img.shields.io/badge/repo-MBRVideo-181717?style=flat-square&logo=github" /></a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/YunChenqwq/MBRVideo?style=flat-square" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/YunChenqwq/MBRVideo?style=flat-square" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/YunChenqwq/MBRVideo?style=flat-square" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/YunChenqwq/MBRVideo?style=flat-square" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/YunChenqwq/MBRVideo?style=flat-square" />
+</p>
+
+### EvilLock
+<p>
+  <a href="https://github.com/YunChenqwq/EvilLock"><img alt="Repo" src="https://img.shields.io/badge/repo-EvilLock-181717?style=flat-square&logo=github" /></a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/YunChenqwq/EvilLock?style=flat-square" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/YunChenqwq/EvilLock?style=flat-square" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/YunChenqwq/EvilLock?style=flat-square" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/YunChenqwq/EvilLock?style=flat-square" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/YunChenqwq/EvilLock?style=flat-square" />
+</p>
+
+### QQClientKeyTrojan
+<p>
+  <a href="https://github.com/YunChenqwq/QQClientKeyTrojan"><img alt="Repo" src="https://img.shields.io/badge/repo-QQClientKeyTrojan-181717?style=flat-square&logo=github" /></a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/YunChenqwq/QQClientKeyTrojan?style=flat-square" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/YunChenqwq/QQClientKeyTrojan?style=flat-square" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/YunChenqwq/QQClientKeyTrojan?style=flat-square" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/YunChenqwq/QQClientKeyTrojan?style=flat-square" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/YunChenqwq/QQClientKeyTrojan?style=flat-square" />
+</p>
+
+### WeChatKey
+<p>
+  <a href="https://github.com/YunChenqwq/WeChatKey"><img alt="Repo" src="https://img.shields.io/badge/repo-WeChatKey-181717?style=flat-square&logo=github" /></a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/YunChenqwq/WeChatKey?style=flat-square" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/YunChenqwq/WeChatKey?style=flat-square" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/YunChenqwq/WeChatKey?style=flat-square" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/YunChenqwq/WeChatKey?style=flat-square" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/YunChenqwq/WeChatKey?style=flat-square" />
+</p>
 
 ## 技术栈（常用）
 <p>
