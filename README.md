@@ -33,7 +33,7 @@
 - 💬 Telegram：[@IzumiSagiriSuki](https://t.me/IzumiSagiriSuki)
 
 ## 数据速览（更稳定）
-> 说明：之前用到的部分第三方统计卡片服务近期会出现 `500/503`，这里改成更稳定的 `shields.io` 徽章 + GitHub 链接。
+
 
 <p align="center">
   <img alt="Profile Stars" src="https://img.shields.io/github/stars/YunChenqwq/YunChenqwq?style=flat-square&label=profile%20repo%20stars" />
@@ -90,7 +90,7 @@
 
 ## 技术栈（常用）
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,java,cpp,cs,go,php,linux,windows,powershell,bash,git,githubactions,docker,mysql,redis,nginx,vscode&perline=11" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,linux,bash,git,githubactions,vscode&perline=11" alt="Skills" />
 </p>
 
 <details>
@@ -99,7 +99,6 @@
 
   - 做一些提升效率的小工具（脚本、Bot、自动化流水线）
   - 写点自己用得顺手的轮子（可复用、可配置、可扩展）
-  - 学习/记录：把踩坑写成“可直接复制”的文档
 </details>
 
 ## IzumiSagiri Kawaii!!
